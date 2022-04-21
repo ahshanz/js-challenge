@@ -12,4 +12,5 @@ function myFunction(a, b) {
     }
 
     const result = union(a, b);
+    return result
 }
